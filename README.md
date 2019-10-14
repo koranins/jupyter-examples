@@ -1,4 +1,4 @@
-# Running
+# Run locally
 
 Install pydeck package
 
